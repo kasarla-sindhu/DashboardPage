@@ -1,0 +1,48 @@
+.category-container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    height: 250px;
+    width: 100%;
+    padding: 10px;
+}
+.category-container h1{
+    font-size: 1.2rem;
+    margin-bottom: 1px;
+}
+.widgets-list{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    overflow-x: auto;
+}
+.add-widget-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    height: 100%;
+    width: 400px;
+    border-radius: 15px;
+    background-color: white;
+}
+.add-widget-con button{
+    border: 1px solid #0000002a;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+}
+.add-widget-con .icon{
+    font-size: 18px;
+}
+.add-widget-con p{
+    margin-left: 6px;
+}
+.add-widget-con button:hover{
+    background-color: black;
+    color: white;
+}
