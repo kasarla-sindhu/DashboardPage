@@ -6,6 +6,7 @@
     border-radius: 15px;
     padding:20px ;
     background-color: white;
+    position: relative;
 }
 .widget-con h1{
     font-family: Roboto;
@@ -15,4 +16,10 @@
 .widget-con p{
     font-family: Roboto;
     font-size: 18px;
+}
+.cross-icon{
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    color: rgb(121, 117, 117);
 }

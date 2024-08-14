@@ -7,9 +7,9 @@
     width: 100%;
     padding: 10px;
 }
-.category-container h1{
+.category-container > h1{
     font-size: 1.2rem;
-    margin-bottom: 1px;
+    margin-bottom: 3px;
 }
 .widgets-list{
     display: flex;
@@ -45,4 +45,21 @@
 .add-widget-con button:hover{
     background-color: black;
     color: white;
+}
+.inputs-con{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+.inputs-con input{
+    width: 95%;
+    padding: 5px;
+    margin-bottom: 8px;
+}
+.inputs-con button{
+    background-color:burlywood;
+    padding: 10px;
+    border-radius: 2px;
+    color: black;
+    font-weight: bold;
 }

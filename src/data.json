@@ -13,16 +13,6 @@
             "id": 2,
             "name": "Widget Trends",
             "text": "This widget shows trend analysis over time."
-          },
-          {
-            "id": 3,
-            "name": "Widget Overview",
-            "text": "This widget provides an overview of the CSPM dashboard."
-          },
-          {
-            "id": 4,
-            "name": "Widget Trends",
-            "text": "This widget shows trend analysis over time."
           }
         ]
       },
@@ -31,24 +21,14 @@
         "name": "Security Overview",
         "widgets": [
           {
-            "id": 5,
+            "id": 3,
             "name": "Widget Alerts",
             "text": "This widget displays security alerts and notifications."
           },
           {
-            "id": 6,
+            "id": 4,
             "name": "Widget Compliance",
             "text": "This widget provides compliance status."
-          },
-          {
-            "id": 7,
-            "name": "Widget Overview",
-            "text": "This widget provides an overview of the CSPM dashboard."
-          },
-          {
-            "id": 8,
-            "name": "Widget Trends",
-            "text": "This widget shows trend analysis over time."
           }
         ]
       },
@@ -57,24 +37,14 @@
         "name": "Performance Metrics",
         "widgets": [
           {
-            "id": 9,
+            "id": 5,
             "name": "Widget CPU Usage",
             "text": "This widget shows CPU usage metrics."
           },
           {
-            "id": 10,
+            "id": 6,
             "name": "Widget Memory Usage",
             "text": "This widget displays memory usage statistics."
-          },
-          {
-            "id": 11,
-            "name": "Widget Overview",
-            "text": "This widget provides an overview of the CSPM dashboard."
-          },
-          {
-            "id": 12,
-            "name": "Widget Trends",
-            "text": "This widget shows trend analysis over time."
           }
         ]
       },
@@ -83,24 +53,14 @@
         "name": "User Activity",
         "widgets": [
           {
-            "id": 13,
+            "id": 7,
             "name": "Widget Login Trends",
             "text": "This widget tracks user login trends."
           },
           {
-            "id": 14,
+            "id": 8,
             "name": "Widget User Engagement",
             "text": "This widget shows user engagement levels."
-          },
-          {
-            "id": 15,
-            "name": "Widget Overview",
-            "text": "This widget provides an overview of the CSPM dashboard."
-          },
-          {
-            "id": 16,
-            "name": "Widget Trends",
-            "text": "This widget shows trend analysis over time."
           }
         ]
       }
